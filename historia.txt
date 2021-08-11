@@ -4,4 +4,6 @@ tiene 23 años y esta aprendiendo git
 
 ya hizo su primer commit
 
-lol experimentando.
+lol experimentando
+
+aprendiendo
